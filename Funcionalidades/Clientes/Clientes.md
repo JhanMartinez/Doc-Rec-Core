@@ -1,11 +1,10 @@
-
 # Clientes
 
 Esta funcionalidad permite registrar, mostrar, actualizar, eliminar la información relacionada al propietario del crédito.
 
 ## Métodos
 
-### def create_customer( ):
+### def `create_customer( ):`
 
 Permite la manipulación de la información relacionada al cliente con la finalidad de registrarlo en base de datos.
 
@@ -76,22 +75,22 @@ argumentos:
 
 ## Atributos
 
-customer_type (integer):
+`customer_type` (integer):
 Tipo de cliente a registrar:
 
 * cliente natural
 * cliente jurídico
 
-**ciiu_code** (obligatorio cliente jurídico):
+**`ciiu_code`** (obligatorio cliente jurídico):
 Actividad comercial de la persona jurídica
 
-**place_of_birth** (opcional):
+**`place_of_birth`** (opcional):
 Contiene un entero con el Lugar de nacimiento
 
-**first_name** (obligatorio):
+**`first_name`** (obligatorio):
 Contiene un string con la información del primer nombre
 
-**martital_status** (opcional):
+**`martital_status`** (opcional):
 contiene un entero con la información referente al estado civil
 
 * soltero
@@ -101,25 +100,25 @@ contiene un entero con la información referente al estado civil
 * separado
 * viud(a)
 
-**middle_name** (opcional):
+**`middle_name`** (opcional):
 Contiene un string con la información del segundo nombre
 
-**first_lastname** (obligatorio):
+**`first_lastname`** (obligatorio):
 Contiene un string con la información del primer apellido
 
-**second_lastname** (opcional):
+**`second_lastname`** (opcional):
 Contiene un string con la información del segundo apellido
 
-**Birthdate** (obligatorio):
+**`Birthdate`** (obligatorio):
 Contiene un String de tipo date la información referente a la fecha de nacimiento
 
-**gender** (obligatorio):
+**`gender`** (obligatorio):
 Contiene un entero con la información del género:
 
 * masculino
 * Femenino
 
-**email** (obligatorio):
+**`email`** (obligatorio):
 Contiene un string con la información relacionada al correo electrónico
 
 * education_level_id (opcional):
