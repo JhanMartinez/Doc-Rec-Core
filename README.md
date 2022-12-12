@@ -1,6 +1,6 @@
-# Documentación  Red-Core
+# Documentación  RedCore
 
-En este repositorio se estará alojando toda la documentación realizada de **Red-Core**
+En este repositorio se estará alojando toda la documentación realizada de **RedCore**
 
 ### Modulos a documentar
 
