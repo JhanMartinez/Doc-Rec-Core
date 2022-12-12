@@ -1,4 +1,4 @@
-# Documentación  Rec-Core
+# Documentación  Red-Core
 
 En este repositorio se estará alojando toda la documentación realizada de **Rec-Core**
 
