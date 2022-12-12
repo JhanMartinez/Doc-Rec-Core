@@ -2,7 +2,7 @@
 
 En este repositorio se estará alojando toda la documentación realizada de **Red-Core**
 
-### Estructura de general de las documentaciones
+### Modulos a documentar
 
 ```txt
 - Estructura de proyecto
