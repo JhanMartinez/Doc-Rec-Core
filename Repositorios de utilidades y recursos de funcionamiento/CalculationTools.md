@@ -26,4 +26,4 @@ Esta es un conjunto de funciones esenciales para cálculo de fechas y utilidades
 
 11. **`cast_dict_decimal_to_float.`** Convierte todos los valores de un diccionario a float siempre y cuando sean decimales.
 
-[Volver a inicio](Repositorio%20de%20utilidades.md)
+[Volver a inicio](README.md)
