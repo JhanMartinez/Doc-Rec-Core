@@ -18,4 +18,4 @@ key = "loans-active:1-loan_id:3"
 
 1. **`get_dict.`** Obtiene el valor almacenado en caché de acuerdo al conjunto de llaves pasados como argumento.
 
-[Volver a inicio](Repositorio%20de%20utilidades.md)
+[Volver a inicio](README.md)
