@@ -32,4 +32,4 @@ Esta clase se encarga de crear, actualizar y deshabilitar un usuario en AWS Cogn
 
 6. **`refresh_tokens.`** Regenera los tokens de cognito (access token, id token) al recibir un refresh token.
 
-[Volver a inicio](Repositorio%20de%20utilidades.md)
+[Volver a inicio](README.md)
