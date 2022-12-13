@@ -8,4 +8,4 @@ Esta clase se encarga de generar un identificador único para las empresas con e
 
 2. **`create_company_code.`** Genera el código único de la empresa y lo guarda en la tabla `core.company_codes`.
 
-[Volver a inicio](Repositorio%20de%20utilidades.md)
+[Volver a inicio](README.md)
