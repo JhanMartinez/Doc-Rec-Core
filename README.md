@@ -6,7 +6,7 @@ En este repositorio se estará alojando toda la documentación realizada de **Re
 
 ```txt
 - Estructura de proyecto
-- Repositorios de utilidades y recursos funcionamiento
+- Repositorios de utilidades y recursos de funcionamiento
 - Layers
 - Base de datos
 - Repos / Stacks
